@@ -1,3 +1,17 @@
+## [1.4.7](https://github.com/donotebase/quasar-tiptap/compare/@1.4.6...@1.4.7) (2020-08-03)
+
+
+### Bug Fixes
+
+* **dependence:** typo ([93df765](https://github.com/donotebase/quasar-tiptap/commit/93df7658797b87cc774c9a3bfe35f13100101ec2))
+
+## [1.4.6](https://github.com/donotebase/quasar-tiptap/compare/@1.4.5...@1.4.6) (2020-08-03)
+
+
+### Bug Fixes
+
+* **editor:** remove white-space ([717b923](https://github.com/donotebase/quasar-tiptap/commit/717b9237621c8557ee87f07587bf5ca53587bc70))
+
 ## [1.4.5](https://github.com/donotebase/quasar-tiptap/compare/@1.4.4...@1.4.5) (2020-06-28)
 
 
