@@ -1,3 +1,23 @@
+## [1.5.1](https://github.com/donotebase/quasar-tiptap/compare/@1.5.0...@1.5.1) (2020-08-22)
+
+
+### Bug Fixes
+
+* **prosemirror-model:** multiple versions of prosemirror-model, fixed [#29](https://github.com/donotebase/quasar-tiptap/issues/29) ([a293fd1](https://github.com/donotebase/quasar-tiptap/commit/a293fd1a10f37b0338a8e7ca27a1dc10e85f9a15))
+
+# [1.5.0](https://github.com/donotebase/quasar-tiptap/compare/@1.4.7...@1.5.0) (2020-08-20)
+
+
+### Bug Fixes
+
+* **editor:** extraneous semis ([0db21e9](https://github.com/donotebase/quasar-tiptap/commit/0db21e9f02e4959836b432cba535e0438d2f7367))
+* **menububble:** Don't crash on missing extensions ([868866b](https://github.com/donotebase/quasar-tiptap/commit/868866b312ee438589b86ac88c637b6e1b7a7eff))
+
+
+### Features
+
+* **editor:** Use initial content and accept parsed json ([9e40200](https://github.com/donotebase/quasar-tiptap/commit/9e4020025e33d1dbf0da2ed1c01f42d394a1ac68))
+
 ## [1.4.7](https://github.com/donotebase/quasar-tiptap/compare/@1.4.6...@1.4.7) (2020-08-03)
 
 

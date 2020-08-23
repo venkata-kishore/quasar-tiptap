@@ -1,6 +1,6 @@
 {
   "name": "quasar-tiptap",
-  "version": "1.4.7",
+  "version": "1.5.1",
   "description": "A modern WYSIWYG rich-text editor built on top of tiptap and Quasar for Vue.js",
   "productName": "Quasar Tiptap",
   "scripts": {
@@ -76,7 +76,8 @@
     "last 1 version, not dead, ie >= 11"
   ],
   "resolutions": {
-    "@babel/parser": "7.7.5"
+    "@babel/parser": "7.7.5",
+    "prosemirror-model": "1.9.1"
   },
   "repository": {
     "type": "git",
